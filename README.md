@@ -36,7 +36,7 @@ I'm a passionate aspiring software engineer with a keen interest in web developm
 ## 📫 Connect with Me
 
 - LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/yourprofile/)
-- Email: [Email address](bchoimah@gmail.com)
+- Email: bchoimah@gmail.com
 
 ---
 
