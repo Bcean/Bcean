@@ -11,7 +11,7 @@ I'm a passionate aspiring software engineer with a keen interest in web developm
 - 🌱 I’m currently learning backend development and machine learning.
 - 👯 I’m looking to collaborate on interesting machine learning projects.
 - 💬 Ask me about jazz composition and I can tell you all about it.
-- 📫 How to reach me: [LinkeIn](https://www.linkedin.com/in/britney-choimah-17b13632b/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/britney-choimah-17b13632b/).
 - ⚡ Fun fact: I have over 6 years of trumpet playing experience.
 
 ## 🛠️ Technologies & Tools
