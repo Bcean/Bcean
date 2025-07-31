@@ -6,19 +6,19 @@
 
 ## About Me
 
-I'm a passionate aspiring software engineer with a keen interest in web development, machine learning, and robotics. I love to learn new things, create my own projects, and collaborate with other developers.
+I'm a passionate aspiring firmware engineer with a keen interest in Embedded Systems, Robotics, and Machine learning. I love to learn new things, create my own projects, and collaborate with other developers.
 
-- 🌱 I’m currently learning backend development and machine learning.
-- 👯 I’m looking to collaborate on interesting machine learning projects.
+- 🌱 I’m currently learning firmware development using the STM32.
+- 👯 I’m looking to collaborate on interesting firmware projects.
 - 💬 Ask me about jazz composition and I can tell you all about it.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/britney-choimah-17b13632b/).
 - ⚡ Fun fact: I have over 6 years of trumpet playing experience.
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: JavaScript, and Python.
-- Frameworks & Libraries: ReactJs, Django, Astro.
-- Tools & Platforms: TailWindCSS, GitHub Pages, Figma.
+- Programming Languages: C/C++, Embedded C, Python.
+- Developer Tools: STM32CubeIDE, Git/GitHub, VSCode.
+- Hardeware: STM32, Arduino, Breadboarding, Circuit Prototyping.
 
 ## 📊 Language Stats
 
